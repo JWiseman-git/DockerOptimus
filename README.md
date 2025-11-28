@@ -76,14 +76,4 @@ With explicit prompting (e.g., “create a small, production-ready multi-stage D
 
 However, these optimisations typically require **explicit instruction** and are not the default.
 
----
-
-## 4. Summary
-Unprompted AI-generated Dockerfiles:
-
-- Work reliably  
-- Are rarely optimised  
-- Tend to be larger, slower, and less secure than necessary  
-
-With targeted prompts or fine-tuning, AI outputs can reach production quality, but the default behaviour is functional rather than efficient.
 
